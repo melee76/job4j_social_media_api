@@ -1,13 +1,13 @@
-package job4j_social_media_api;
+package ru.job4j.socialmedia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Job4jSocialMediaApiApplication {
+public class SocialMediaApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Job4jSocialMediaApiApplication.class, args);
+		SpringApplication.run(SocialMediaApiApplication.class, args);
 	}
 
 }
